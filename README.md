@@ -13,7 +13,7 @@ As a trainee in Telerik Academy Online my next projects, homeworks and exercises
 5. Principles of OOP Part Two
 6. General System of Types in .NET
 
-All codes and examples are done for the course C# - Part - 2 and are written on C#.
+All codes and examples are done for the course C# OOP and are written on C#.
 
 
 ==============================================================================================================
