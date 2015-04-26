@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsAndPersons", "StudentsAndPersons\StudentsAndPersons.csproj", "{E0903B73-4885-4ADE-876F-BD16F948D885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64BitArray", "64BitArray\64BitArray.csproj", "{5BD85CD8-4720-413F-BA12-B88CF6E6C464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0903B73-4885-4ADE-876F-BD16F948D885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0903B73-4885-4ADE-876F-BD16F948D885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0903B73-4885-4ADE-876F-BD16F948D885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0903B73-4885-4ADE-876F-BD16F948D885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD85CD8-4720-413F-BA12-B88CF6E6C464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD85CD8-4720-413F-BA12-B88CF6E6C464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD85CD8-4720-413F-BA12-B88CF6E6C464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD85CD8-4720-413F-BA12-B88CF6E6C464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
